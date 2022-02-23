@@ -12,7 +12,7 @@ import Post from "./Post.svelte";
 {#if innerWidth > 1026}
 {/if} -->
 
-<div class="grid grid-cols-1 mx-2 ">
+<div class="grid w-9/12 grid-cols-1 mx-2 ">
 
     <div class="w-full h-28 border-1 bg-color-white-base justify-around  rounded-md mb-4">
         
@@ -62,7 +62,7 @@ import Post from "./Post.svelte";
     </div>
 
     <div class="flex mb-4">
-        <hr class="w-9/12 h-0.5 m-2 text-xs bg-color-hr flex">
+        <hr class=" h-0.5 m-2 text-xs bg-color-hr flex">
         <p class="text-xs flex  mx-1">Sort By:</p>
 
        

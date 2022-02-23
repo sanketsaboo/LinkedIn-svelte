@@ -1,5 +1,5 @@
 <script lang="ts">
-import ProfileBanner from "$lib/icons/ProfileBanner.svelte"
+import ProfilesBanner from "$lib/icons/ProfilesBanner.svelte"
 import Premium from "$lib/icons/Premium.svelte"
 import MyItems from "$lib/icons/MyItems.svelte"
 import LeftStats from "./LeftStats.svelte";
@@ -8,7 +8,7 @@ import LeftPremium from "./LeftPremium.svelte";
 </script>
 
 <div class="w-[20%] p-0 mt-0 rounded-md bg-color-white-base border-1 mx-1 h-full" >
-    <ProfileBanner class="w-full p-0 m-0 "/>
+    <ProfilesBanner class="w-full p-0 m-0 bg-cover  "/>
 
     <button type="button  " class="flex w-full rounded-full" >
         <img class="w-14 border-none m-auto rounded-full flex z-20" src="/images/jpg/ProfilePicture.jpg" alt="user photo" />

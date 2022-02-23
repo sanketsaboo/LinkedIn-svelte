@@ -6,7 +6,7 @@ import Send from "$lib/icons/Send.svelte";
 import Share from "$lib/icons/Share.svelte";
 
 </script>
-<!-- <div class="grid grid-cols-1 mx-2 mb-10 "> -->
+<div class="grid grid-cols-1 mx-2 mb-10  ">
 
 <div class="w-full  border-1 bg-color-white-base justify-around  rounded-md mb-8">
    
@@ -49,7 +49,7 @@ import Share from "$lib/icons/Share.svelte";
     </div>
 
 </div>
-<!-- </div> -->
+</div>
 
 <style>
     .likes{
