@@ -1,0 +1,1 @@
+<hr class="w-full border-1 p-1 h-0.5">
